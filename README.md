@@ -23,7 +23,7 @@
 - [✅] Patient experience
 > Creation of user friendly website , interactive dashboards with analysis.
 - [X] Health Disparities
-> What is the role of big data and analytics in addressing health disparities among vulnerable and minority populations in San Diego County.
+> The Website is open to all and data privacy is maintained critically.With the patient's consent we can utilize the data for further model training.
 - [✅] Privacy and Security
 > Unique Userid , password , Captcha.
 
