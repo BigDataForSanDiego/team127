@@ -7,6 +7,7 @@
   
 #### Your team’s hackathon idea in One sentence:
 ##### `Brain tumor Classification using Deep Learning Algorithms and a healthcare website that provides visualisation using data gathered from the survey.`
+<img height="10%" width="80%" alt="hdma" src="https://github.com/BigDataForSanDiego/team127/blob/main/tumorrr.jpg">
 
 <img height="10%" width="80%" alt="hdma" src="https://github.com/BigDataForSanDiego/team127/tree/main/screenshots/s1.png"> 
 <img height="10%" width="80%" alt="hdma" src="https://github.com/BigDataForSanDiego/team127/tree/main/screenshots/s2.png"> 
