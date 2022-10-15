@@ -9,14 +9,14 @@
 ##### `Brain tumor Classification using Deep Learning Algorithms and a healthcare website that provides visualisation using data gathered from the survey.`
 <img height="10%" width="80%" alt="hdma" src="https://github.com/BigDataForSanDiego/team127/blob/main/tumorrr.jpg">
 
-<img height="10%" width="80%" alt="hdma" src="https://github.com/BigDataForSanDiego/team127/tree/main/screenshots/s1.png"> 
-<img height="10%" width="80%" alt="hdma" src="https://github.com/BigDataForSanDiego/team127/tree/main/screenshots/s2.png"> 
-<img height="10%" width="80%" alt="hdma" src="https://github.com/BigDataForSanDiego/team127/tree/main/screenshots/s3.png"> 
-<img height="10%" width="80%" alt="hdma" src="https://github.com/BigDataForSanDiego/team127/tree/main/screenshots/s4.png"> 
-<img height="10%" width="80%" alt="hdma" src="https://github.com/BigDataForSanDiego/team127/tree/main/screenshots/s5.png"> 
-<img height="10%" width="80%" alt="hdma" src="https://github.com/BigDataForSanDiego/team127/tree/main/screenshots/s6.png"> 
-<img height="10%" width="80%" alt="hdma" src="https://github.com/BigDataForSanDiego/team127/tree/main/screenshots/s7.png"> 
-<img height="10%" width="80%" alt="hdma" src="https://github.com/BigDataForSanDiego/team127/tree/main/screenshots/s8.png"> 
+<img height="10%" width="80%" alt="hdma" src="https://github.com/BigDataForSanDiego/team127/blob/main/screenshots/s1.png"> 
+<img height="10%" width="80%" alt="hdma" src="https://github.com/BigDataForSanDiego/team127/blob/main/screenshots/s2.png"> 
+<img height="10%" width="80%" alt="hdma" src="https://github.com/BigDataForSanDiego/team127/blob/main/screenshots/s3.png"> 
+<img height="10%" width="80%" alt="hdma" src="https://github.com/BigDataForSanDiego/team127/blob/main/screenshots/s4.png"> 
+<img height="10%" width="80%" alt="hdma" src="https://github.com/BigDataForSanDiego/team127/blob/main/screenshots/s5.png"> 
+<img height="10%" width="80%" alt="hdma" src="https://github.com/BigDataForSanDiego/team127/blob/main/screenshots/s6.png"> 
+<img height="10%" width="80%" alt="hdma" src="https://github.com/BigDataForSanDiego/team127/blob/main/screenshots/s7.png"> 
+<img height="10%" width="80%" alt="hdma" src="https://github.com/BigDataForSanDiego/team127/blob/main/screenshots/s8.png"> 
 
 
 #### Hackathon Theme(s) (check a box(es))
